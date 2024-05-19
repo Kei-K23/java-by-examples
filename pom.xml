@@ -10,7 +10,7 @@
   <name>java-by-examples</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>projects</module>
+    <module>examples</module>
   </modules>
 
   <properties>

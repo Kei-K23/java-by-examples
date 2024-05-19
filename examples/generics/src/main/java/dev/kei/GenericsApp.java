@@ -1,5 +1,17 @@
 package dev.kei;
 
+// In Java, generics are a language feature that allows you to write classes,
+// interfaces, and methods with a placeholder for types, providing type safety at compile time without needing to cast objects.
+// Generics enable you to create code that is more flexible, reusable, and easier to read.
+
+// Why Use Generics?
+// Type Safety: They provide stronger type checks at compile time.
+// Elimination of Casts: You don't need to cast objects.
+// Code Reusability: You can write a generic algorithm that works with different data types.
+// Syntax of Generics
+// Generics are specified using angle brackets <>. Inside the brackets, you define the type parameter.
+
+
 public class GenericsApp
 {
     public static void main( String[] args )
