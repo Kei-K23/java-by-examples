@@ -11,6 +11,7 @@ To learn more about Java and it related concepts. Share what I learned for other
 1. [Generics in Java](./examples/generics/src/main/java/dev/kei/GenericsApp.java)
 2. [Random number generating in Java](./examples/random-number/src/main/java/dev/kei/App.java)
 3. [Date formating in Java](./examples/date-format/src/main/java/dev/kei/App.java)
+4. [Schedule task in Java](./examples/schedule-task/src/main/java/dev/kei/App.java)
 
 ## LICENSE
 

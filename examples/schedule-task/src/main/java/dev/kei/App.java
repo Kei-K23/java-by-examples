@@ -6,7 +6,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Scheduling a task to run every 2 seconds.
+ * Scheduling task to run every 2 seconds.
  */
 public class App 
 {
