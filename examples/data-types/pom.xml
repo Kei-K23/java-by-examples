@@ -3,22 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>dev.kei</groupId>
-        <artifactId>java-by-examples</artifactId>
+        <artifactId>examples</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>examples</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>data-types</artifactId>
+    <packaging>jar</packaging>
 
-    <name>projects</name>
+    <name>data-types</name>
     <url>http://maven.apache.org</url>
-    <modules>
-        <module>generics</module>
-        <module>random-number</module>
-        <module>date-format</module>
-        <module>schedule-task</module>
-        <module>data-types</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

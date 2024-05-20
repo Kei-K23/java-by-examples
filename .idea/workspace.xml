@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7457f72f-11de-49cd-931c-df145fe4f862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/data-types/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/data-types/src/main/java/dev/kei/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
   "keyToString": {
     "Application.App (1).executor": "Debug",
     "Application.App (2).executor": "Run",
+    "Application.App (3).executor": "Run",
     "Application.App.executor": "Run",
     "Application.GenericsApp.executor": "Run",
     "Application.Test.executor": "Run",
@@ -46,7 +50,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dev.kei.App" />
       <module name="date-format" />
@@ -73,9 +77,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dev.kei.App" />
-      <module name="random-number" />
+      <module name="data-types" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dev.kei.*" />
@@ -86,9 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.kei.GenericsApp" />
-      <module name="generics" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.kei.App" />
+      <module name="random-number" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dev.kei.*" />
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.GenericsApp" />
       </list>
     </recent_temporary>
   </component>
