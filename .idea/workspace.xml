@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7457f72f-11de-49cd-931c-df145fe4f862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/object-wrapper-class/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/object-wrapper-class/src/main/java/dev/kei/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,7 @@
     "Application.App (1).executor": "Debug",
     "Application.App (2).executor": "Run",
     "Application.App (3).executor": "Run",
+    "Application.App (4).executor": "Run",
     "Application.App.executor": "Run",
     "Application.GenericsApp.executor": "Run",
     "Application.Test.executor": "Run",
